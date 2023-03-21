@@ -11,7 +11,7 @@ Linear regression can be extended to multiple regression, where there are multip
 Example For Linear Regression
 Suppose you have a dataset of the number of hours people spend studying for an exam and their corresponding scores on the exam. Your goal is to use linear regression to model the relationship between the hours studied (independent variable) and the exam score (dependent variable) to predict the exam score for a given number of hours studied.
 
-First, you would plot the data points on a scatterplot with the hours studied on the x-axis and the exam scores on the y-axis. If there is a linear relationship between the two variables, you should see a general trend that as the number of hours studied increases, so does the exam score.
+First you would plot the data points on a scatterplot with the hours studied on the x-axis and the exam scores on the y-axis. If there is a linear relationship between the two variables, you should see a general trend that as the number of hours studied increases, so does the exam score.
 
 Next, you would use the method of least squares to find the equation of the line that best fits the data points. This line would have an intercept (b) and a slope (m) that minimize the sum of the squared differences between the predicted values of the exam score and the actual values.
 
